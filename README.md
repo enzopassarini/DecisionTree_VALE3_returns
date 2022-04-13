@@ -2,7 +2,7 @@
 
 This project serves as a beginning for my studies in Machine Learning. 
 
-As I read various introductory texts about ML, one of the most quoted models initially was Decision Trees, so I figured out I would try to apply it to financial and quantitative problems. As independent variables were used returns from: CC Fut BVSP, CC Fut USD/BRL, Iron Ore 62% Fe CFR and CSI 1000 (China); - CC meaning current contract - and as the target or dependent variable was used VALE3 (former "Vale do Rio Doce") returns. All data is daily, and the period of the analysis is:  26/09/2011 - 08/04/2022.
+As I read various introductory texts about ML, one of the most quoted models initially was Decision Trees, so I figured out I would try to apply it to financial and quantitative problems. As independent variables were used returns from: CC Fut BVSP, CC Fut USD/BRL, Iron Ore 62% Fe CFR and CSI 1000 (China); - CC meaning current contract - and as the target or dependent variable was used VALE3 (former "Vale do Rio Doce") returns. All data is daily, and the period of analysis is:  26/09/2011 - 08/04/2022.
 
 *Crucial point: as we try to predict today's VALE3 return, we use yesterday's data from all the independent variables.*
 
